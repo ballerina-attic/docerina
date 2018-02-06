@@ -3,6 +3,10 @@
 Jenkins: [![Build Status](https://wso2.org/jenkins/job/ballerinalang/job/docerina/badge/icon)](https://wso2.org/jenkins/job/ballerinalang/job/docerina/)  
 Travis CI: [![Build Status](https://travis-ci.org/ballerinalang/docerina.svg?branch=master)](https://travis-ci.org/ballerinalang/docerina)  
 
+This repository is no longer used for development. Current developments are done in following repository.
+
+https://github.com/ballerina-lang/ballerina
+
 Docerina is the API documentation generator tool of the Ballerina language. Currently API documentation is generated in HTML format 
 and it can be extended to support additional formats as required.
 
